@@ -1,0 +1,112 @@
+{
+    "conversation": [
+        {
+            "id":1,
+            "title": "Senior/Staff Backend Engineer",
+            "message": "Hey",
+            "time": "2.00 am",
+            "companyLogo": "https://www.logodesign.net/logo/line-art-buildings-in-swoosh-1273ld.png",
+            "isOnline": true,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":2,
+            "title": "junior Node.js Developer",
+            "message": "Hi",
+            "time": "1.00 pm",
+            "companyLogo": "https://cdn.logojoy.com/wp-content/uploads/2018/05/01104836/1751.png",            
+            "experienceLevel": "Entry level",
+            "experienceLevelColor": "92D88B",
+            "isOnline": true,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":3,
+            "title": "Senior Software Engineer",
+            "message": "Hlo",
+            "time": "2.00 pm",
+            "companyLogo": "https://dcassetcdn.com/design_img/1028317/67001/67001_5592974_1028317_2eb04990_image.jpg",            
+            "experienceLevel": "Mid-Senior level",
+            "experienceLevelColor": "4495FF",
+            "isOnline": true,
+            "rmsg": "Fyn U"
+        },
+        {
+            "id":4,
+            "title": "Senior Front-End Engineer",
+            "message": "Are You there!",
+            "time": "4.34 am",
+            "companyLogo": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/01/attachment_66776707-e1515509844624.jpg?auto=format&q=60&fit=max&w=930",            
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isOnline": true,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":5,
+            "title": "Senior Software Engineer",
+            "message": "Oii",
+            "time": "2.12 pm",
+            "companyLogo": "https://cdn.logojoy.com/wp-content/uploads/2018/05/01104813/1268-768x591.png",            
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isOnline": true,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":6,
+            "title": "junior Node.js Developer",
+            "message": "I Miss You",
+            "time": "1.32 pm",
+            "companyLogo": "https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/Handling-Finances.jpg",            
+            "experienceLevel": "Entry level",
+            "experienceLevelColor": "92D88B",
+            "isOnline": false,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":7,
+            "title": "Senior/Staff Backend Engineer",
+            "message": "No way",
+            "time": "2.43 am",
+            "companyLogo": "https://s3.amazonaws.com/thumbnails.venngage.com/template/bdaf4e02-499c-4389-af74-51ff5a362585.png",            
+            "experienceLevel": "Senior level",
+            "experienceLevelColor": "ff0000",
+            "isOnline": false,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":8,
+            "title": "Senior Front-End Engineer",
+            "message": "Still Busy",
+            "time": "4.27 pm",
+            "companyLogo": "https://99designs-acquisition-frontend.imgix.net/serverless/images/categoryPage/hero/logo-design/01-Cross-the-Lime.jpg?auto=format&w=300&h=300",            
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isOnline": false,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":9,
+            "title": "Senior Software Engineer",
+            "message": "Don't disturb",
+            "time": "2.51 am",
+            "companyLogo": "https://www.tailorbrands.com/wp-content/uploads/2019/01/TailorBrands-Logo.jpeg",            
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isOnline": false,
+            "rmsg": "Hey, how are you doing?"
+        },
+        {
+            "id":10,
+            "title": "Senior Software Engineer",
+            "message": "Good Bye",
+            "time": "2.19 pm",
+            "companyLogo": "https://static3.depositphotos.com/1005920/205/i/600/depositphotos_2053901-stock-photo-green-environmental-company-logo.jpg",            
+            "experienceLevel": "Mid-Senior level",
+            "experienceLevelColor": "4495FF",
+            "isOnline": false,
+            "rmsg": "Hey, how are you doing?"
+        }
+    ]
+}
